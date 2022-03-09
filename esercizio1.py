@@ -1,3 +1,4 @@
+print("Metti dei numeri interi")
 a=int(input("num A = "))
 b=int(input("num B = "))
 c=int(input("num C = "))
