@@ -21,6 +21,6 @@ class CSVfile():
 
 #csvfile = Csvfile('ciao.txt')
 # per far passare, commento anche quei due sotto
-csvfile = CSVfile('shampoo_sales.csv')
+#csvfile = CSVfile('shampoo_sales.csv')
 #print(csvfile.get_data())
 
